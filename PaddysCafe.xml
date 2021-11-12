@@ -1,0 +1,24 @@
+<?xml version="1.0" encording="UTF-8" ?>
+<menu>
+    <section name="Drinks">
+    <entry>
+            <item>Poached Eggs </item>
+            <price>8</price> 
+        </entry>
+        <entry>
+            <item>Poached Eggs </item>
+            <price>8</price> 
+        </entry>
+        <entry>
+            <item>Poached Eggs </item>
+            <price>8</price> 
+        </entry>
+        <entry vegitarian="true">
+            <item> Falafel</item>
+            <price> 10</price>
+        </entry>
+    </section>
+        <section name="Breakfast">
+
+
+</menu>
