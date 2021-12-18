@@ -17,14 +17,13 @@
   },
   "homepage": "https://github.com/Eun-Young-lee/iwa-practical#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
     "path": "^0.12.7",
     "xml2js": "^0.4.23",
     "xslt-processor": "^0.11.5"
   },
-  "devDependencies": {},
   "keywords": [
     "inclass",
     "project"
